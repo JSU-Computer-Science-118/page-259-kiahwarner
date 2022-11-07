@@ -1,7 +1,4 @@
-// write your code here
-//Name: Kiah Warner
-//J#: J00963660
-//Date: 11/7/22
+// Kiah Warner J00963660 11/7/22
 
 #include <iostream>
 #include <cmath>
