@@ -69,6 +69,16 @@
       "comparison": "exact",
       "timeout": 1,
       "points": 20
+    },
+    {
+      "name": "Compile Test",
+      "setup": "cmake . && make",
+      "run": "./page259",
+      "input": "",
+      "output": "[a-zA-Z0-9]+",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": 20
     }
   ]
 }
