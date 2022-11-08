@@ -7,9 +7,9 @@ using namespace std;
 int main()
 {
     double a, b, c, d;
-    cout << "enter coefficient of ax^2: "; // get coefficient from user
+    cout << "enter coefficient of ax^2: "; 
     cin >> a; //got the coefficient
-    cout << "enter coefficient of bx: "; // get coefficient from user
+    cout << "enter coefficient of bx: "; 
     cin >> b;
     cout << "enter coefficient of c: ";
     cin >> c;
