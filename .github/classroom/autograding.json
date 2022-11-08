@@ -15,7 +15,7 @@
       "setup": "cmake . && make",
       "run": "./page259",
       "input": "1 6 3",
-      "output": "Two real roots\r\n- First Root -0.55051\r\n- Second Root -5.44949",
+      "output": "Two real roots\r\n- First root -0.55051\r\n- Second root -5.44949",
       "comparison": "exact",
       "timeout": 4,
       "points": 5
