@@ -5,7 +5,7 @@
       "setup": "cmake . && make",
       "run": "./page259",
       "input": "1 1 0",
-      "output": "Two real roots\r\n- First Root 0\r\n- Second Root -1",
+      "output": "Two real roots\r\n- First root 0\r\n- Second root -1",
       "comparison": "exact",
       "timeout": 4,
       "points": 5
