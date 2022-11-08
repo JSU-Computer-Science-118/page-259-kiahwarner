@@ -1,4 +1,3 @@
-// Program pg 259.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Name: Kiah Warner J#: J00963660  Due Date: 11/9/22  Program Assignment Quadratic Formula 
 #include <iostream>
 #include <cmath>
@@ -7,9 +6,9 @@ using namespace std;
 int main()
 {
     double a, b, c, d;
-    cout << "enter coefficient of ax^2: "; // get coefficient from user
+    cout << "enter coefficient of ax^2: "; 
     cin >> a; //got the coefficient
-    cout << "enter coefficient of bx: "; // get coefficient from user
+    cout << "enter coefficient of bx: "; 
     cin >> b;
     cout << "enter coefficient of c: ";
     cin >> c;
