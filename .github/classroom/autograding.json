@@ -74,7 +74,7 @@
       "name": "Compile Test",
       "setup": "cmake . && make",
       "run": "./page259",
-      "input": "",
+      "input": "1",
       "output": "[a-zA-Z0-9]+",
       "comparison": "regex",
       "timeout": 10,
