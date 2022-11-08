@@ -1,14 +1,12 @@
 // Kiah Warner J00963660 11/7/22
-
 #include <iostream>
 #include <cmath>
 using namespace std;
-
 int main()
 {
     double a, b, c, d;
     cout << "enter coefficient of ax^2: "; 
-    cin >> a; //got the coefficient
+    cin >> a; 
     cout << "enter coefficient of bx: "; 
     cin >> b;
     cout << "enter coefficient of c: ";
