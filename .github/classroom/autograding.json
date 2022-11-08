@@ -61,23 +61,13 @@
       "points": 5
     },
     {
-      "name": "Compile Test",
-      "setup": "cmake . && make",
-      "run": "./page259",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 4,
-      "points": 70
-    },
-    {
       "name": "Test for A",
       "setup": "cmake . && make",
       "run": "./page259",
       "input": "0 2 2",
       "output": "Invalid entry",
       "comparison": "exact",
-      "timeout": 4,
+      "timeout": 1,
       "points": 20
     }
   ]
