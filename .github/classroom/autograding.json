@@ -45,7 +45,7 @@
       "setup": "cmake . && make",
       "run": "./page259",
       "input": "2 4 2",
-      "output": "The single Root is -1",
+      "output": "The single root is -1",
       "comparison": "exact",
       "timeout": 4,
       "points": 5
@@ -55,7 +55,7 @@
       "setup": "cmake . && make",
       "run": "./page259",
       "input": "2 8 8",
-      "output": "The single Root is -2",
+      "output": "The single root is -2",
       "comparison": "exact",
       "timeout": 4,
       "points": 5
